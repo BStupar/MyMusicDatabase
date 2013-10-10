@@ -32,8 +32,7 @@ CongoMongo library for using MongoDB with Clojure - mongo.clj
 
 Hickory library for parsing HTML used to extract data from web page - extract_data.clj.
 
-## License
 
-Copyright © 2013 FIXME
+## License
 
 Distributed under the Eclipse Public License, the same as Clojure.
